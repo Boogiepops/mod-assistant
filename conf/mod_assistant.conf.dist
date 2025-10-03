@@ -24,10 +24,10 @@ Assistant.Containers.Enabled = 1
 #
 
 Assistant.Utilities.Enabled            = 1
-Assistant.Utilities.NameChange.Cost    = 100000
-Assistant.Utilities.Customize.Cost     = 500000
-Assistant.Utilities.RaceChange.Cost    = 5000000
-Assistant.Utilities.FactionChange.Cost = 10000000
+Assistant.Utilities.NameChange.Cost    = 1
+Assistant.Utilities.Customize.Cost     = 1
+Assistant.Utilities.RaceChange.Cost    = 1
+Assistant.Utilities.FactionChange.Cost = 1
 
 #################################
 
@@ -39,13 +39,13 @@ Assistant.Utilities.FactionChange.Cost = 10000000
 
 Assistant.FlightPaths.Vanilla.Enabled                  = 1
 Assistant.FlightPaths.Vanilla.RequiredLevel            = 60
-Assistant.FlightPaths.Vanilla.Cost                     = 250000
+Assistant.FlightPaths.Vanilla.Cost                     = 1
 Assistant.FlightPaths.BurningCrusade.Enabled           = 1
 Assistant.FlightPaths.BurningCrusade.RequiredLevel     = 70
-Assistant.FlightPaths.BurningCrusade.Cost              = 1000000
+Assistant.FlightPaths.BurningCrusade.Cost              = 1
 Assistant.FlightPaths.WrathOfTheLichKing.Enabled       = 0
 Assistant.FlightPaths.WrathOfTheLichKing.RequiredLevel = 80
-Assistant.FlightPaths.WrathOfTheLichKing.Cost          = 2500000
+Assistant.FlightPaths.WrathOfTheLichKing.Cost          = 1
 
 #################################
 
@@ -56,16 +56,16 @@ Assistant.FlightPaths.WrathOfTheLichKing.Cost          = 2500000
 #
 
 Assistant.Professions.Apprentice.Enabled  = 1
-Assistant.Professions.Apprentice.Cost     = 1000000
+Assistant.Professions.Apprentice.Cost     = 1
 Assistant.Professions.Journeyman.Enabled  = 1
-Assistant.Professions.Journeyman.Cost     = 2500000
+Assistant.Professions.Journeyman.Cost     = 1
 Assistant.Professions.Expert.Enabled      = 1
-Assistant.Professions.Expert.Cost         = 5000000
+Assistant.Professions.Expert.Cost         = 1
 Assistant.Professions.Artisan.Enabled     = 1
-Assistant.Professions.Artisan.Cost        = 7500000
-Assistant.Professions.Master.Enabled      = 0
-Assistant.Professions.Master.Cost         = 12500000
-Assistant.Professions.GrandMaster.Enabled = 0
-Assistant.Professions.GrandMaster.Cost    = 25000000
+Assistant.Professions.Artisan.Cost        = 1
+Assistant.Professions.Master.Enabled      = 1
+Assistant.Professions.Master.Cost         = 1
+Assistant.Professions.GrandMaster.Enabled = 1
+Assistant.Professions.GrandMaster.Cost    = 1
 
 #################################
